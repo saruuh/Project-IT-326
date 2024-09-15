@@ -1,14 +1,8 @@
 # ScoreCast
 
 ## Motivations :
-###Our primary motive for this project is to analyze the FIFA World Cup 2022 dataset to make predictions about future match ###outcomes.
+The FIFA World Cup 2022 dataset provides a rich array of information on football matches from one of the most watched sporting events in the world. Our team decided to work with this dataset to explore and analyze various aspects of football matches, including team performance, player statistics, and match outcomes. The motivation behind choosing this dataset lies in its potential to uncover insights into player and team performance, which can be of interest to both sports analysts and football enthusiasts. By analyzing the data, we aim to identify patterns and trends that can enhance our understanding of the dynamics of high-stakes football matches.
 
-###The dataset provides the date of each match, nominal data such as the home team, away team, and the continents of each. ###Additionally, it includes numerical data for the FIFA rankings and scores of the participating teams, totaling 25 ###columns and over 20,000 rows. Furthermore, the dataset has a perfect Kaggle usability score of 10.0, reflecting its ###completeness, credibility, and compatibility.
-
-
-###
-
-## Description of the project :
 
 
 ## Members Names :
